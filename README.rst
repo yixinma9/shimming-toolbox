@@ -1,3 +1,4 @@
+Test
 Welcome to shimming-toolbox!
 ============================
 
